@@ -1,4 +1,7 @@
-### Hi there 👋
+### My Organizations
+
+- [Small Coding Dojo](https://github.com/small-coding-dojo) - Exercises performed by a group of software crafting enthusiasts.
+- [Wonderbird's Katas](https://github.com/wonderbirds-katas) - Exercises I perform alone.
 
 <!--
 **wonderbird/wonderbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

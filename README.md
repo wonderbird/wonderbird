@@ -3,6 +3,11 @@
 - [Small Coding Dojo](https://github.com/small-coding-dojo) - Exercises performed by a group of software crafting enthusiasts.
 - [Wonderbird's Katas](https://github.com/wonderbirds-katas) - Exercises I perform alone.
 
+### Link Collections
+
+- [Software Crafting](https://wonderbird.github.io/pages/software-crafting/)
+- [Software Architecture](https://github.com/hojak/awesome-architecture)
+
 <!--
 **wonderbird/wonderbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

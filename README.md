@@ -8,6 +8,7 @@
 - [wonderbird.github.io](https://wonderbird.github.io) - My blog and link collection ([GitHub Repo: wonderbird.github.io](https://github.com/wonderbird/wonderbird.github.io)).
 - [Software Crafting](https://wonderbird.github.io/pages/software-crafting/) - Links related to Software Crafting.
 - [Software Architecture](https://github.com/hojak/awesome-architecture) - Links related to Software Architecture.
+- [Gists](https://gist.github.com/wonderbird) - My GitHub Gists
 
 <!--
 **wonderbird/wonderbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
